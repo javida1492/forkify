@@ -1,4 +1,4 @@
-## Forkify Project ##
+## Forkify Recipe Database ##
 
 Recipe application with custom recipe uploads. Developed using modern oop principles (classes, constructors, inheritence, encapsulation) as well as the Model-View-Controller (MVC) design pattern. Utilized modern tools such as NPM, Parcel, Babel, and ES6 modules. 
 
